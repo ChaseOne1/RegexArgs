@@ -1,0 +1,5 @@
+build/
+scripts/
+test/build/
+test/doctest.h
+include/RegexArgs_gen.hpp
